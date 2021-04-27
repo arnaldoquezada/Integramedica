@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.boxes{
+    display: inline-block;
+    vertical-align: top;
+    /* border: 3px solid red; */
+}
+
+.main-wrapper {
+    width: 100%;
+    background-color: white;  
+}
+.header{
+    background-image: url("/img/fondo-header.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 110px;
+    vertical-align: top;
+    display: inline-block ;
+    padding: 15px;
+
+}
+    .header-boxes{
+        display: inline-block;
+        vertical-align: top; 
+    }
+    .logo-box {
+        display: inline-block;
+        vertical-align: top;
+        position: relative; 
+        background-image: url("/img/logo-vidaintegra.png");
+        background-repeat: no-repeat;
+        width: 470px;
+        height: 72px;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .icon-box {
+        display: inline-block;
+        vertical-align: top; 
+    }
+    .icon-boxes{
+        display: inline-block;
+        vertical-align: top; 
+        margin: 30px 0px 0px 400px;
+    }
+
+.nav-box {
+    background-color:#3d3d70;
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+}
+    .icon-house{
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 10px;
+        vertical-align: top;
+        margin-left: 178px;
+    }
+    .nav-menu-box{
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 15px;
+        margin-left: 60px;
+    }
+        .nav-box ul{
+            text-decoration: none;
+            display: inline-block;
+            vertical-align: top;
+            
+        }
+        .nav-box li{
+            text-decoration: none;
+            display: inline;
+            color: white;
+            margin-right: 47px;
+            font-size: 18px;
+        }
+.left-nav{
+    display: inline-block;
+    vertical-align: top;
+    width: 226px;
+    height: 500px;
+    margin-left: 164px;
+}
+    .left-nav-box{
+        display: inline-block;
+        vertical-align: top;
+        width: 210px;
+        height: 71px;
+        margin: 15px;
+        align-content: center;
+
+    }
+.blue {
+    background-color: #3e6bb2;
+    color: white;  
+    text-align: center;
+    font-weight:normal;
+    font-size: 18px;
+    font-family: 'Antonio', sans-serif;
+
+}
+.light-blue {
+    background-color: #26adee;
+    color: white;  
+    text-align: center;
+    font-weight:normal;
+    font-size: 18px;
+    font-family: 'Antonio', sans-serif;
+}
+.center-content{
+    width: 517px;
+    height: 500px;    
+    display: inline-block;
+    vertical-align: top; 
+    }
+    .img-center{    
+        display: inline-block;
+        vertical-align: top; 
+        margin: 15px;        
+    }
+
+.h1-reserva{
+    color: #0d57a3;
+    font-size: 40px;
+    margin-left: 15px;
+    font-weight: normal;
+    margin-top: 5px;
+    border-bottom: 1px solid #0057a3;
+    line-height: 45px;
+    font-family: Helvetica;
+}
+.hours-search-box{
+    width: 490px;
+    height: 528px;
+    display: inline-block;
+    vertical-align: top; 
+    border: 1px solid #0d57a3;
+    margin-top: 15px;
+    margin-left: 15px;  
+}
+.input-run{
+    width: 440px;
+    height: 31px;
+    margin-top: 35px;
+    margin-top: 35px;
+    margin-left: 15px;
+    border-radius: 3px;
+    border-color: #ccc;
+}
+.input-run a{
+    padding-left: 15px;
+}
+
